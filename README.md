@@ -1,4 +1,4 @@
-<h2 align="center"><img src = "https://user-images.githubusercontent.com/77532147/221648199-4448347f-59b8-44a0-931f-bdf99f17cfab.gif"/></h2>
+<h2 align="center"><img src = "https://user-images.githubusercontent.com/77532147/221652850-2ef777d7-441e-42d3-946b-fae36e171c31.gif"/></h2>
 <h3 align="center">Hello, I'm Wilson Daniel</h3>
 <h1 align="center">Android AR/VR Developer</h1>
 
