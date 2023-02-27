@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Wilson Daniel</h1>
+<h1 align="center">Hello, I'm Wilson Daniel</h1>
+
+<img src = "https://user-images.githubusercontent.com/77532147/221648199-4448347f-59b8-44a0-931f-bdf99f17cfab.gif"/>
 <h3 align="center">Android AR/VR Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="wilson-daniel" /> </p>
 
