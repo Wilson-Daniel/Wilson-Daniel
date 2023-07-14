@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/wilsondaniel30" target="blank"><img src="https://img.shields.io/twitter/follow/wilsondaniel30?logo=twitter&style=for-the-badge" alt="wilsondaniel30" /></a> </p>
 
+# 🌱 Some Achievements
+- WINNER HACKNOVATE 4.O (International Hackathon), ABES Institute of Technology.
+- WINNER (1st Runner-up) TECH-A-THON 2.O (National Hackathon), Rajguru Sukhdev College Delhi University.
+- WINNER (1st Runner-up) MLH HACKHOUND (National Hackathon), SRM University Delhi NCR Campus.
+- WINNER (2nd Runner-up) HACK THE MOUNTAINS 3.O (International Hackathon), Manav Rachna University.
+
+# 🔭 About me
 - 🔭 I’m currently working on **Android, Unity**
 
 - 🌱 I’m currently learning **Android**
